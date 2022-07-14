@@ -1,0 +1,3 @@
+<apex:page>
+    <apex:pageMessage summary="Validation message text" severity="error" strength="3"></apex:pageMessage>
+</apex:page>
